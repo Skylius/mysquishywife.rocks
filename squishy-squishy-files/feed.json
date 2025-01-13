@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "squishy squishy",
+    "description": "",
+    "home_page_url": "https://mysquishywife.rocks",
+    "feed_url": "https://mysquishywife.rocks/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sora"
+    },
+    "items": [
+        {
+            "id": "https://mysquishywife.rocks/i-love-my-squishy-wife.html",
+            "url": "https://mysquishywife.rocks/i-love-my-squishy-wife.html",
+            "title": "I love my squishy wife.",
+            "summary": "Sofie is a cutie. ❤️",
+            "content_html": "<p class=\"align-left\">Sofie is a cutie. ❤️</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mysquishywife.rocks/media/posts/1/c69efb6baf245073578f05c469c3d84b-3.jpg\" alt=\"\" width=\"600\" height=\"800\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-xs.jpg 640w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-sm.jpg 768w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-md.jpg 1024w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-lg.jpg 1366w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-xl.jpg 1600w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-2xl.jpg 1920w\"></figure>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "sora"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-13T17:07:29-06:00",
+            "date_modified": "2025-01-13T17:07:29-06:00"
+        }
+    ]
+}

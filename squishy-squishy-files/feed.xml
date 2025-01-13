@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>squishy squishy</title>
+    <link href="https://mysquishywife.rocks/feed.xml" rel="self" />
+    <link href="https://mysquishywife.rocks" />
+    <updated>2025-01-13T17:07:29-06:00</updated>
+    <author>
+        <name>sora</name>
+    </author>
+    <id>https://mysquishywife.rocks</id>
+
+    <entry>
+        <title>I love my squishy wife.</title>
+        <author>
+            <name>sora</name>
+        </author>
+        <link href="https://mysquishywife.rocks/i-love-my-squishy-wife.html"/>
+        <id>https://mysquishywife.rocks/i-love-my-squishy-wife.html</id>
+
+        <updated>2025-01-13T17:07:29-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Sofie is a cutie. ❤️
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">Sofie is a cutie. ❤️</p>
+<figure class="post__image"><img loading="lazy"  src="https://mysquishywife.rocks/media/posts/1/c69efb6baf245073578f05c469c3d84b-3.jpg" alt="" width="600" height="800" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-xs.jpg 640w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-sm.jpg 768w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-md.jpg 1024w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-lg.jpg 1366w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-xl.jpg 1600w ,https://mysquishywife.rocks/media/posts/1/responsive/c69efb6baf245073578f05c469c3d84b-3-2xl.jpg 1920w"></figure>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
